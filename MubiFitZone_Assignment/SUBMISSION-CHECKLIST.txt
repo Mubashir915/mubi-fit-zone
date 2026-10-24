@@ -1,8 +1,0 @@
-SUBMISSION CHECKLIST
-[ ] Open index.html and test the navigation links.
-[ ] Check the site on desktop and mobile widths.
-[ ] Create a public GitHub repository.
-[ ] Upload every HTML file, style.css, README.md and this checklist.
-[ ] Enable GitHub Pages from main / root.
-[ ] Verify the live site opens in a private/incognito browser.
-[ ] Submit the public repository URL and live website URL.
